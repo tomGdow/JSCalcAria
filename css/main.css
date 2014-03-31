@@ -98,11 +98,16 @@ textarea {
    ========================================================================== */
 
 
+#myfullcalculator{background-color: #2C373B;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #888888;}
 
 
+#calcPanel {
+    height: 3em;}
 
 
-
+#panelDiv {padding-bottom: 1em;}
 
 
 
